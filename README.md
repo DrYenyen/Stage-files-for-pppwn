@@ -1,2 +1,2 @@
 # Stage-files-for-pppwn
-a quick download place for compiled stage files 
+A quick download place for compiled stage files.  
